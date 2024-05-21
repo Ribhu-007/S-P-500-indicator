@@ -1,1 +1,1 @@
-# S-P-500-indicator
+# S&P-500-indicator
